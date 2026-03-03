@@ -1,5 +1,5 @@
 // app/page.tsx
-import Header from "../components/Header";
+ import Header from "../components/Header";
 import Image from "next/image";
 import { Playfair_Display } from "next/font/google";
  
