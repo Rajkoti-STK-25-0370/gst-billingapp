@@ -13,6 +13,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col">
       <Header />
  
+ 
       {/* Page container (light background, centered content) */}
       <main className="flex-1">
         <div className="mx-auto max-w-[1200px] px-5 sm:px-8 lg:px-10 py-8 lg:py-10">
